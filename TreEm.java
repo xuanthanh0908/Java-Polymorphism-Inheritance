@@ -18,8 +18,6 @@ public class TreEm extends DocGia{
         super(Hoten, NgayLap, SoThangHL);
         this.HoTenNDD = HoTenNDD;
     }
-
-    
     
     public String getHoTenNDD() {
         return HoTenNDD;
