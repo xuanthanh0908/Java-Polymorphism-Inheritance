@@ -18,6 +18,7 @@ public class Main {
             Scanner sc = new Scanner(System.in);
             n = sc.nextInt();
             DocGia[] a = new DocGia[n];
+            System.out.println("LUA CHON (1.TRE EM : 2.NGUOI  LON) ");
             for(int i = 0; i <n ; i ++)
             {
                 System.out.print("NHAP LUA CHON = ");
